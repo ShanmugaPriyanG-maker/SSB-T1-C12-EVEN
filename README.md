@@ -92,7 +92,7 @@ OUTPUT GRAPH:
 <img width="2878" height="1482" alt="EXP3" src="https://github.com/user-attachments/assets/26768279-719e-48c7-8c60-25feed5e7059" />
 
 TABULATION:
-![WhatsApp Image 2026-04-07 at 9 54 54 AM](https://github.com/user-attachments/assets/045bcd53-e6dd-4555-9df9-e6ada2c4b5da)
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/85a6df15-d864-4ba2-8be0-0017a7c1c4f5" />
 
 
 
