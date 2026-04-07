@@ -91,6 +91,10 @@ xgrid();
 OUTPUT GRAPH:
 <img width="2878" height="1482" alt="EXP3" src="https://github.com/user-attachments/assets/26768279-719e-48c7-8c60-25feed5e7059" />
 
+TABULATION:
+![WhatsApp Image 2026-04-07 at 9 54 54 AM](https://github.com/user-attachments/assets/045bcd53-e6dd-4555-9df9-e6ada2c4b5da)
+
+
 
 RESULT:
 ![WhatsApp Image 2026-04-07 at 9 54 54 AM](https://github.com/user-attachments/assets/fc39c638-9d47-4658-8ea2-844a2f4cb372)
